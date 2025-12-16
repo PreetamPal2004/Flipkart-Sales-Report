@@ -146,7 +146,11 @@ These filters allow users to interactively explore data based on specific criter
 - A fully interactive Power BI sales dashboard  
 - Clear visualization of sales, profit, and customer trends  
 - Easy comparison across products, regions, and demographics  
-- Actionable insights for business planning and strategic decision-making  
+- Actionable insights for business planning and strategic decision-making
+
+<p align="center">
+  <img src="Flipkart Sales Report Demo.png" alt="Flipkart Sales Dashboard" width="800">
+</p>
 
 ---
 
